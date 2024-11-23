@@ -1,0 +1,83 @@
+
+.header-card{
+    background-color: cadetblue;
+    height: 100px;
+    width: cover;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: inherit;
+    padding: 35px;
+}
+.background{
+    background-color: coral;
+}
+.middle{
+    display: flex;
+    padding: 30px;
+}
+.form-card{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    text-decoration: underline;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    box-decoration-break: slice;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.input{
+    width: 180px;
+    margin: 5px;
+    border-bottom: 02pc;
+    border-radius: 15px;
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin: 10px;
+}
+.check{
+    margin-left: 0px;
+    margin-right: 19px;
+}
+.head1{
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.equipment-card{
+    height: 200px;
+    width: 200px;
+    background-color: khaki;
+    margin: 40px;
+    margin-right: 125px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    
+}
+.bottom{
+    display: flex;
+}
+.bag-card{
+    height: 200px;
+    width: 600px;
+    background-color: khaki;
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-right: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+
+}
+.Membership-card{
+    color: aliceblue;
+    height: 200px;
+    width: 300px;
+    background-color: black;
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
